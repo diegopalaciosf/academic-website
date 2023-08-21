@@ -59,8 +59,8 @@ Santiago, Chile
 
 - It takes two for substance use: Peer mechanisms in adolescents’ substance use, FONDECYT Iniciacion 11230902 (ANID), 2 years. [PI]
 - Redes de amistad en el grupo curso: ¿Está el consumo de sustancias asociado con la selección de amistades?, Intramural funding from Nucleo Milenio para la Evaluación y Análisis de Políticas de Drogas (nDP) with Roman, F., 1 year. [PI]
-- Filantropía en el sistema escolar chileno. Privatización, gobernanza y política educativa en la era del filantrocapitalismo, FONDECYT Regular 1230358, PI: Villalobos, C., 3 year [Co-investigator]
-- Juntos... ¿y revueltos?: Tipología de la estructura social de las redes de filiación, matrimonio y dependencia económica en las viviendas de Chile, Intramural funding from Nucleo Milenio de Sociomedicina (SocioMed), PI: Montalva, N., 1 year. [Co-investigator]
+- Filantropía en el sistema escolar chileno. Privatización, gobernanza y política educativa en la era del filantrocapitalismo, FONDECYT Regular 1230358, PI: Villalobos, C., 3 year [Co-I]
+- Juntos... ¿y revueltos?: Tipología de la estructura social de las redes de filiación, matrimonio y dependencia económica en las viviendas de Chile, Intramural funding from Nucleo Milenio de Sociomedicina (SocioMed), PI: Montalva, N., 1 year. [Co-I]
 
 ### Latest Conference presentations
 
