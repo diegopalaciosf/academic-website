@@ -32,7 +32,7 @@ Santiago, Chile
 
 ## Research
 
-### Latest publications
+### Latest publications (articles) 
 
 - [Ortega, L., Manaut, C., Palacios, D., & Martínez, M. V. (2023). Patrones y predictores de colaboración docente: Un estudio mixto en escuelas chilenas. REICE. Revista Iberoamericana Sobre Calidad, Eficacia y Cambio En Educación](https://revistas.uam.es/reice/article/view/reice2023_21_1_004)
 - [Villalobos, C., Queupil, J. P., & Palacios, D. (2022). Interacciones académicas en un espacio mercantilizado: Redes de co-autoría en investigaciones sobre política educativa en chile (1990-2019). Redes: Revista Hispana Para El Análisis de Redes Sociales, 33(1), 0076–0091](https://revistes.uab.cat/redes/article/view/v33-n1-villalobos-queupil-palacios)
@@ -62,7 +62,7 @@ Santiago, Chile
 - Filantropía en el sistema escolar chileno. Privatización, gobernanza y política educativa en la era del filantrocapitalismo, FONDECYT Regular 1230358, PI: Villalobos, C., 3 year [Co-investigator]
 - Juntos... ¿y revueltos?: Tipología de la estructura social de las redes de filiación, matrimonio y dependencia económica en las viviendas de Chile, Intramural funding from Nucleo Milenio de Sociomedicina (SocioMed), PI: Montalva, N., 1 year. [Co-investigator]
 
-### Conference presentations
+### Latest Conference presentations
 
 - Palacios, D., Roman, F., & Beneventi, F. (2023). Alcohol use and friendship selection in Chilean adolescents. In SUNBELT conference, Portland, US.
 - Ortega, L., Guzmán-Valenzuela, C., Montero, M., Ruiz, F. O., & Palacios, D. (2023). Looking beyond representation: Gender inequities in academic production, collaboration
@@ -97,6 +97,6 @@ and leadership in Chilean educational research. In APICS Conference, Arica, Chil
 
 ## Contact
 
-You can contact me at [diego.palacios@umayor.cl](mailto:diego.palacios@umayor.cl) or through [Twitter](https://twitter.com/diegopalacios__) or [LinkedIN] (https://www.linkedin.com/in/diego-palacios-29a91035/).
+You can contact me at [diego.palacios@umayor.cl](mailto:diego.palacios@umayor.cl) or through [Twitter](https://twitter.com/diegopalacios__) or [LinkedIN](https://www.linkedin.com/in/diego-palacios-29a91035/).
 
 
